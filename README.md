@@ -46,13 +46,6 @@
 
 ### 📈 Contribution Graph & Visitor Count
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fredised&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fredised&style=for-the-badge"/>
-</p>
 
 ---
 
