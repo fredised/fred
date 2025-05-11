@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on: **[Your Project Name](https://github.com/fredised/yourproject)**
+- 🔭 I’m currently working on: **[TailBox](https://github.com/fredised/TailBox)**
 - 🌱 Learning: `AI`, `DevOps`, `Low-Level Systems`
 - 💬 Ask me about: `Full Stack Development`, `Python Programming`
 - 🧰 Tools: `VSCode`, `Docker`, `Linux`, `Git`, `Vercel`, `Figma`
