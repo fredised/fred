@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on: **[TailBox](https://github.com/fredised/TailBox)**
+- 🔭 I’m currently working on: **[Nothing]()**
 - 🌱 Learning: `AI`, `Luau`, `Lua`
 - 💬 Ask me about: `Full Stack Development`, `Python Programming`
 - 🧰 Tools: `VSCode`, `Docker`, `Linux`, `Git`, `Vercel`, `Figma`
