@@ -38,6 +38,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredised&theme=radical&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/df66cbcaae74e319ba092502e2d0db86b5e7c0d22725868eefd170ef9f8cf0c0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37312f47544b5f6c6f676f2e737667"/>
+</p>
+
 ---
 
 ### 📈 Contribution Graph & Visitor Count
