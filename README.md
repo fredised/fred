@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on: **[TailBox](https://github.com/fredised/TailBox)**
-- 🌱 Learning: `AI`, `DevOps`, `Low-Level Systems`
+- 🌱 Learning: `AI`, `Luau`, `Lua`
 - 💬 Ask me about: `Full Stack Development`, `Python Programming`
 - 🧰 Tools: `VSCode`, `Docker`, `Linux`, `Git`, `Vercel`, `Figma`
 - 📫 Reach me: [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](yknowock@mailum.com)
