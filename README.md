@@ -44,6 +44,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fredised&theme=radical" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=fredised&style=for-the-badge" />
 </div>
 
