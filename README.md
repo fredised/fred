@@ -13,6 +13,7 @@
 - 💬 Ask me about: `Full Stack Development`, `Python Programming`
 - 🧰 Tools: `VSCode`, `Docker`, `Linux`, `Git`, `Vercel`, `Figma`
 - 📫 Reach me: [![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](yknowock@mailum.com)
+- 🔱 Working for: CloudSecurity 
 - ⚡ Fun fact: I automate everything—even making coffee ☕️
 
 ---
